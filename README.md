@@ -8,7 +8,7 @@ Predict a personalized rating for a user-restaurant pair. Evaluated using RMSE a
 
 ## Dataset
 
-Google Restaurants dataset from Google Local (Google Maps) with user reviews, ratings, and historical review data.
+[Google Restaurants dataset](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/) from Google Local (Google Maps) with user reviews, ratings, and historical review data.
 
 ## Results
 
